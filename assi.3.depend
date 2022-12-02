@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1651981654 source:c:\users\alaau\onedrive\desktop\assi.3\main.cpp
+	<iostream>
+	"SLL.h"
+	"StackSLL.h"
+	"QueueSLL.h"
+	<string>
+	<math.h>
+
+1651976020 c:\users\alaau\onedrive\desktop\assi.3\sll.h
+	<iostream>
+
+1651533409 c:\users\alaau\onedrive\desktop\assi.3\stacksll.h
+	<iostream>
+
+1651980310 c:\users\alaau\onedrive\desktop\assi.3\queuesll.h
+	<iostream>
+
